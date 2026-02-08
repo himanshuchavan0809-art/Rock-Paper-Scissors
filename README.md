@@ -8,6 +8,7 @@ This project is a Rock Paper Scissors game developed using Python, where a playe
 It is a beginner-friendly project designed to help understand basic Python programming concepts such as conditionals, loops, functions, and random number generation.
 
 
+
 **Features**
 
 1.User vs Computer gameplay
@@ -21,6 +22,7 @@ It is a beginner-friendly project designed to help understand basic Python progr
 5.Beginner-friendly Python code
 
 
+
 **Working Logic**
 
 1.The user selects Rock, Paper, or Scissors.
@@ -30,6 +32,7 @@ It is a beginner-friendly project designed to help understand basic Python progr
 3.The program compares both choices.
 
 4.The result (Win / Lose / Tie) is displayed.
+
 
 
 **Future Enhancements**
